@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# Copyright (c) 2020 Ali MJ Al-Nasrawy
+
 import argparse
 import logging
 import os.path
